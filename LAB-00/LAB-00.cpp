@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hi!\n";
+    std::cout << "Patrushev Matvey Vyacheslavovich, Dostoevsky, LAB-00\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
